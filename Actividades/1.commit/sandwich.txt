@@ -3,3 +3,4 @@ Lechuga
 Tomate
 Queso
 Mayonesa
+Ketchup
